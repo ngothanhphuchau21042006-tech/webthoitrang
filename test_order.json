@@ -1,0 +1,27 @@
+{
+    "customerName": "Test User",
+    "phone": "0900000000",
+    "email": "ntphau21@gmail.com",
+    "address": "TP.HCM",
+    "paymentMethod": "cod",
+    "note": "Test Note",
+    "items": [
+        {
+            "product": {
+                "id": "ao-blazer-01",
+                "name": "Áo Blazer Oversized Premium",
+                "price": 1290000,
+                "images": [
+                    "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&h=750&fit=crop"
+                ]
+            },
+            "quantity": 1,
+            "selectedSize": "L",
+            "selectedColor": {
+                "name": "Đen",
+                "hex": "#1a1a1a"
+            }
+        }
+    ],
+    "totalAmount": 1290000
+}
